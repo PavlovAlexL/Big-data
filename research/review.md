@@ -1,7 +1,7 @@
 # Сайты
 ## Статьи
-* Машинное обучение для самых маленьких. 2013 - (ссылка)[http://www.pvsm.ru/klassifikatsiya/40336]
-* Ваш персональный курс по Big Data [https://habrahabr.ru/company/mlclass/blog/252743/]
+* Машинное обучение для самых маленьких. 2013 - [ссылка](http://www.pvsm.ru/klassifikatsiya/40336)
+* Ваш персональный курс по Big Data - [ссылка](https://habrahabr.ru/company/mlclass/blog/252743/)
 
 ## Что необходимо знать
 * Брошурка от яндекса для ШАД - [https://cache-mskstoredata09.cdn.yandex.net/download.cdn.yandex.net/shad/shad_program_v3.pdf]
