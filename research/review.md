@@ -1,26 +1,26 @@
 # Сайты
 ## Статьи
-* Машинное обучение для самых маленьких. 2013 - [ссылка](http://www.pvsm.ru/klassifikatsiya/40336)
-* Ваш персональный курс по Big Data - [ссылка](https://habrahabr.ru/company/mlclass/blog/252743/)
+* Машинное обучение для самых маленьких. 2013. [Cсылка](http://www.pvsm.ru/klassifikatsiya/40336)
+* Ваш персональный курс по Big Data. [Cсылка](https://habrahabr.ru/company/mlclass/blog/252743/). _Судя по описанию, достаточно неплохой гайд по big data._
 
 ## Что необходимо знать
-* Брошурка от яндекса для ШАД - [https://cache-mskstoredata09.cdn.yandex.net/download.cdn.yandex.net/shad/shad_program_v3.pdf]
-* Как решать вступительный экзамен в школу анализа данных - [https://habrahabr.ru/company/yandex/blog/262543/]
+* Брошюрка от яндекса для ШАД. (Ссылка)[https://cache-mskstoredata09.cdn.yandex.net/download.cdn.yandex.net/shad/shad_program_v3.pdf]. _Вообще некоторые не советуют брать ШАД в пример для первого ознакомления с анализом данных. Слижком много математики._
+* Как решать вступительный экзамен в школу анализа данных. (Ссылка)[https://habrahabr.ru/company/yandex/blog/262543/]. _Смотри верхний комментарий_.
 
 ---
 
 # Видео
-## Математика 
-* Лекции по математике от "Ликториума" Савватеев - [http://lectoriy.mipt.ru/lecturer/SavvateevAV#lectures]
+## Математика
+* Лекции по математике от "Ликториума" Савватеев. (Ссылка)[http://lectoriy.mipt.ru/lecturer/SavvateevAV#lectures]
 
 ---
 
 # Книги
 ## Big Data 
-* Big Data [https://www.mann-ivanov-ferber.ru/books/paperbook/big-data/]
+* Big Data. (Ссылка)[https://www.mann-ivanov-ferber.ru/books/paperbook/big-data/]
 
 ## Математика
-* Математика для гуманитариев. Живые лекции [http://www.usdp.ru/book/savva_book.pdf]
+* Математика для гуманитариев. Живые лекции. (Ссылка)[http://www.usdp.ru/book/savva_book.pdf]
 * Основы алгебры [http://nashol.com/2013070272244/vvedenie-v-algebru-chast-1-osnovi-algebri-kostrikin-a-i-2000.html]
 
 ---
