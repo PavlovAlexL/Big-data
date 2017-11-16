@@ -1,6 +1,6 @@
 # Сайты
 ## Статьи
-* Машинное обучение для самых маленьких. 2013 [http://www.pvsm.ru/klassifikatsiya/40336]
+* Машинное обучение для самых маленьких. 2013 - (ссылка)[http://www.pvsm.ru/klassifikatsiya/40336]
 * Ваш персональный курс по Big Data [https://habrahabr.ru/company/mlclass/blog/252743/]
 
 ## Что необходимо знать
