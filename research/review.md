@@ -63,3 +63,12 @@
 # Обсуждения на тему Big Data
 ## Toster
 * Toster [https://toster.ru/q/254486]
+
+## Добавить ссылки 
+* http://datasciencemasters.org/
+* https://yandexdataschool.ru/edu-process/online-courses
+* https://www.quora.com/What-are-good-ways-to-get-started-with-data-science-for-a-complete-novice?redirected_qid=485041
+* https://www.kaggle.com/wiki/Home
+* https://www.kaggle.com/
+* https://www.kdnuggets.com/2013/10/7-steps-learning-data-mining-data-science.html
+* https://republic.ru/specials/data-economics/articles/learning_to_count/  - хорошая статья с сылками на BD
